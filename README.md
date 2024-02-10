@@ -2,7 +2,6 @@ ETH PROOF Beginner EVM Course Code
  This is a proof of completion of the course.
 
 Description
-This Folder has all assignments completed in the order -
 
 Final Project: myToken.sol
 
